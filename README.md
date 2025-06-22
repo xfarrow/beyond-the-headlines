@@ -7,7 +7,7 @@ We often see headlines like _"The stock market fell by X%"_ but did our own port
 
 Our analysis focuses on extreme market conditions. We will demonstrate that:
 * Investors who were in the market at least one year prior to the all-time high tend to experience significantly smaller losses.
-* The time required to recover from downturns is notably shorter. In fact, risk shouldn't be viewed solely in terms of market volatility, but also in terms of time to recovery  (the duration it takes for a portfolio to return to its previous value).
+* The time required to recover from downturns is notably shorter. In fact, risk shouldn't be viewed solely in terms of market volatility, but also in terms of time to recovery  (the duration it takes for a portfolio to return to its previous value). **Note:** our hypothesis assumes that the DCA approach stops at the market bottom.
 
 ## Conclusion
 We observe that based on the analysis of three major market crashes, the strategy has:
