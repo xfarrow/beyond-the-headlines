@@ -22,7 +22,7 @@ We observed the worst market drawdown of -56.78% occurring between 09 October 20
 
 Now, let's simulate starting a DCA investment 1 year(s) prior to the crash, from 9 October 2006 to 09 March 2009
 Over this period, the investment had a P/L of -46.26% and fully recovered in 660 days
-This strategy led to:
+The average investor had:
 1) A P/L improvement of 18.52%
 2) A reduction in recovery time of 44.59%
 
@@ -33,7 +33,7 @@ We observed the worst market drawdown of -49.15% occurring between 24 March 2000
 
 Now, let's simulate starting a DCA investment 1 year(s) prior to the crash, from 24 March 1999 to 09 October 2002
 Over this period, the investment had a P/L of -36.78% and fully recovered in 1014 days
-This strategy led to:
+The average investor had:
 1) A P/L improvement of 25.17%
 2) A reduction in recovery time of 59.86%
 
@@ -44,7 +44,12 @@ We observed the worst market drawdown of -86.19% occurring between 16 September 
 
 Now, let's simulate starting a DCA investment 1 year(s) prior to the crash, from 16 September 1928 to 01 June 1932
 Over this period, the investment had a P/L of -70.97% and fully recovered in 1400 days
-This strategy led to:
+The average investor had:
 1) A P/L improvement of 17.66%
 2) A reduction in recovery time of 17.18%
 ```
+
+## Limitations
+The analysis
+* Should have analyzed at least rolling windows from up to `n-5` instead of a fixed `n-1`
+* Has analyzed only 3 market crashes, which, although severe, may not have been sufficient to establish statistical significance
