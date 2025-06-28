@@ -21,10 +21,10 @@ We observe that based on the analysis of three major market crashes, average inv
 We observed the worst market drawdown of -56.78% occurring between 09 October 2007 and 09 March 2009. It took 1480 days for the market to fully recover.
 
 Now, let's simulate starting a DCA investment 1 year(s) prior to the crash, from 9 October 2006 to 09 March 2009
-Over this period, the investment had a P/L of -46.26% and fully recovered in 660 days
-The average investor had:
+Over this period, the investment had a P/L of -46.26% and fully recovered in 660
+This strategy led to:
 1) A P/L improvement of 18.52%
-2) A reduction in recovery time of 44.59%
+2) A reduction in recovery time of 55.41%
 
 ---------------------------------------------------------------
 *** Analyzing dates from 01 January 2000 to 31 December 2003 ***
@@ -32,10 +32,10 @@ The average investor had:
 We observed the worst market drawdown of -49.15% occurring between 24 March 2000 and 09 October 2002. It took 1694 days for the market to fully recover.
 
 Now, let's simulate starting a DCA investment 1 year(s) prior to the crash, from 24 March 1999 to 09 October 2002
-Over this period, the investment had a P/L of -36.78% and fully recovered in 1014 days
-The average investor had:
+Over this period, the investment had a P/L of -36.78% and fully recovered in 1014
+This strategy led to:
 1) A P/L improvement of 25.17%
-2) A reduction in recovery time of 59.86%
+2) A reduction in recovery time of 40.14%
 
 ---------------------------------------------------------------
 *** Analyzing dates from 01 January 1927 to 31 December 1933 ***
@@ -43,10 +43,11 @@ The average investor had:
 We observed the worst market drawdown of -86.19% occurring between 16 September 1929 and 01 June 1932. It took 8148 days for the market to fully recover.
 
 Now, let's simulate starting a DCA investment 1 year(s) prior to the crash, from 16 September 1928 to 01 June 1932
-Over this period, the investment had a P/L of -70.97% and fully recovered in 1400 days
-The average investor had:
+Over this period, the investment had a P/L of -70.97% and fully recovered in 1400
+This strategy led to:
 1) A P/L improvement of 17.66%
-2) A reduction in recovery time of 17.18%
+2) A reduction in recovery time of 82.82%
+
 ```
 
 ## Limitations
